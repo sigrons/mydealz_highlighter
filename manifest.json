@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "mydealz Highlighter",
+    "version": "1.0",
+    "description": "A Chrome Extension that highlights prices and shipping costs on mydealz.de. It automatically calculates and displays the total cost (product price + shipping cost) in green with the shipping cost highlighted in red.",
+    "permissions": [
+      "activeTab"
+    ],
+    "content_scripts": [
+      {
+        "matches": ["https://www.mydealz.de/*"],
+        "js": ["content.js"]
+      }
+    ]
+  }
+  
