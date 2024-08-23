@@ -11,6 +11,11 @@
         "matches": ["https://www.mydealz.de/*"],
         "js": ["content.js"]
       }
-    ]
+    ],
+      "browser_specific_settings": {
+  "gecko": {
+    "id": "highliter@mydealz.de"
+  }
+},
   }
   
