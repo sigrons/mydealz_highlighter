@@ -8,7 +8,7 @@ A Chrome Extension that highlights prices and shipping costs on mydealz.de. It a
 - **Visual Enhancement**: Shipping costs are highlighted in bold red with a white font, while the total cost is displayed in bold green with a white font on a green background.
 - **Efficient Processing**: Ensures that each price and shipping cost is processed only once, avoiding multiple calculations and display errors.
 
-## Installation
+## Installation Chrome
 
 1. Go to the [Releases](https://github.com/sigrons/mydealz_highlighter/releases) page of this repository.
 
@@ -21,6 +21,18 @@ A Chrome Extension that highlights prices and shipping costs on mydealz.de. It a
 5. Enable **Developer mode** by clicking the toggle switch in the top right corner.
 
 6. Click the **Load unpacked** button and select the folder where you unzipped the extension.
+
+7. The extension should now be loaded and active in your Chrome browser.
+
+## Installation Firefox
+
+1. Go to the [Releases](https://github.com/sigrons/mydealz_highlighter/releases) page of this repository.
+
+2. Download the latest `.zip` file from the releases.
+
+4. Open the Firefox browser and navigate to `about:addons`.
+
+6. Click the **cog icon**, click on **Install Ad-on From File...** and select the folder where you downloaded the extension to.
 
 7. The extension should now be loaded and active in your Chrome browser.
 
