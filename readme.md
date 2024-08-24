@@ -31,9 +31,3 @@ Once the extension is loaded in Chrome:
 1. Navigate to [mydealz.de](https://www.mydealz.de).
 2. The extension will automatically highlight shipping costs in red and calculate the total cost by adding the product price and shipping cost.
 3. The total cost will be displayed next to the shipping cost in bold green with a white font on a green background.
-
-## Screenshots
-
-![Screenshot](https://raw.githubusercontent.com/sigrons/mydealz_highlighter/main/demo/example1.png "Screenshot")
-![Screenshot](https://raw.githubusercontent.com/sigrons/mydealz_highlighter/main/demo/example2.png "Screenshot")
-![Screenshot](https://raw.githubusercontent.com/sigrons/mydealz_highlighter/main/demo/example3.png "Screenshot")
