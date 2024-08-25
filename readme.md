@@ -1,3 +1,6 @@
+> ### 👀 Please note
+> mydealz has withdrawn the rule change that led to the creation of this extension, which is why the meaning of this extension is obsolete (still works like a charme). The deal price now includes the shipping costs, which is why it is no longer necessary to add them up. The extension may still be useful for other marketplaces that do not have this regulation, but you may have to adapt the code for the corresponding domain/DOM structure.
+
 # mydealz Price & Shipping Highlighter
 
 A Chrome Extension that highlights prices and shipping costs on mydealz.de. It automatically calculates and displays the total cost (product price + shipping cost) in green with the shipping cost highlighted in red.
