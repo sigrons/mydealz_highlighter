@@ -10,7 +10,7 @@ A Chrome Extension that highlights prices and shipping costs on mydealz.de. It a
 
 ## Installation
 
-1. Go to the [Releases](https://github.com/sigrons/mydealz_highlighter/releases) page of this repository.
+1. Go to the [Releases](https://github.com/tareq-halaby/mydealz_highlighter/releases) page of this repository.
 
 2. Download the latest `.zip` file from the releases.
 
@@ -34,6 +34,6 @@ Once the extension is loaded in Chrome:
 
 ## Screenshots
 
-![Screenshot](https://raw.githubusercontent.com/sigrons/mydealz_highlighter/main/demo/example1.png "Screenshot")
-![Screenshot](https://raw.githubusercontent.com/sigrons/mydealz_highlighter/main/demo/example2.png "Screenshot")
-![Screenshot](https://raw.githubusercontent.com/sigrons/mydealz_highlighter/main/demo/example3.png "Screenshot")
+![Screenshot](https://raw.githubusercontent.com/tareq-halaby/mydealz_highlighter/main/demo/example1.png "Screenshot")
+![Screenshot](https://raw.githubusercontent.com/tareq-halaby/mydealz_highlighter/main/demo/example2.png "Screenshot")
+![Screenshot](https://raw.githubusercontent.com/tareq-halaby/mydealz_highlighter/main/demo/example3.png "Screenshot")
